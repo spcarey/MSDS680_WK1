@@ -1,0 +1,17 @@
+"0","read_csv(""https://www.kaggle.com/citylines/city-lines/downloads/lines.csv"")
+"
+"2","Parsed with column specification:
+cols(
+  `<!DOCTYPE html>` = [31mcol_character()[39m
+)
+"
+"2","64 parsing failures.
+row col  expected    actual                                                              file
+  5  -- 1 columns 2 columns 'https://www.kaggle.com/citylines/city-lines/downloads/lines.csv'
+  6  -- 1 columns 6 columns 'https://www.kaggle.com/citylines/city-lines/downloads/lines.csv'
+  8  -- 1 columns 4 columns 'https://www.kaggle.com/citylines/city-lines/downloads/lines.csv'
+ 15  -- 1 columns 8 columns 'https://www.kaggle.com/citylines/city-lines/downloads/lines.csv'
+ 20  -- 1 columns 9 columns 'https://www.kaggle.com/citylines/city-lines/downloads/lines.csv'
+... ... ......... ......... .................................................................
+See problems(...) for more details.
+"

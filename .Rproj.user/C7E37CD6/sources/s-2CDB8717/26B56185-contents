@@ -1,0 +1,28 @@
+---
+title: "MSDS 680 WEEK 1 HW"
+author: "Sean Carey"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+## 1.1) Check for Missing values
+
+```{r 1}
+# Read in Data from kaggle
+
+read_csv("")
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
